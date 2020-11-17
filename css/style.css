@@ -361,6 +361,7 @@ template {
 }
 
 .header-top {
+  display: flex;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
@@ -373,6 +374,7 @@ template {
 
 .header__search {
   margin-right: auto;
+  margin-left: 108px;
 }
 
 .search {
